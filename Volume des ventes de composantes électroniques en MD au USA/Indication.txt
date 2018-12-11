@@ -1,0 +1,11 @@
+Il s'agit d'une série d'observations de fréquence mensuelle décrivant
+le volume des ventes de composantes électroniques en MD. 
+Cette série s'étale du mois de janvier 1992 au mois de mars 2014.
+
+
+
+
+
+
+
+
